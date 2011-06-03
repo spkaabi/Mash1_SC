@@ -1,1 +1,11 @@
-Describe your project here
+Mash1 E12.5 SC GIS data
+
+
+ChIP
+s_3_sorted.txt  s_4_sorted.txt
+Input
+run1_s_5_sorted.txt  run2_s_5_sorted.txt  s_6_sorted.txt
+
+
+
+We will just cat these files together and call them "export" for the sake of the pipeline.
